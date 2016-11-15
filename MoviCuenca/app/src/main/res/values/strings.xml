@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MoviCuenca</string>
+    <string name="title_activity_maps">MoviCuenca</string>
+    <string-array name="array_places">
+        <item>Valle</item>
+        <item>Feria Libre</item>
+        <item>Complejo de Totoracocha</item>
+        <item>Universidad de Cuenca</item>
+        <item>Parque de la Madre</item>
+        <item>Plaza el Otorongo</item>
+        <item>Colegio Benigno Malo</item>
+        <item>Baños</item>
+        <item>Cementerio Municipal</item>
+        <item>Terminal Terrestre</item>
+        <item>Hospital del IEES</item>
+        <item>Los Trigales</item>
+        <item>La Salle</item>
+        <item>San Blas</item>
+        <item>Estadio Alejandro Serrano Aguilar</item>
+        <item>San Roque</item>
+        <item>Escuela 3 de Noviembre</item>
+        <item>Parque Jacaranda</item>
+        <item>Universidad Politécnica Salesiana</item>
+        <item>Banco Central del Ecuador</item>
+    </string-array>
+    <string name="title_activity_segunda">¿A dónde quiere ir..?</string>
+</resources>

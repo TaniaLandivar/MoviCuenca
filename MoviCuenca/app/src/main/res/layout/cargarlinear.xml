@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toast_layout_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cast_expanded_controller_background_color"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/common_google_signin_btn_text_dark_focused">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/peaton" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LINEAS SUGERIDAS"
+            android:textSize="@dimen/cast_libraries_material_featurehighlight_center_horizontal_offset"
+            android:textColor="@android:color/background_light" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/text_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/fab_margin" />
+
+
+</LinearLayout>
