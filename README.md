@@ -11,7 +11,7 @@ Presentación en diapositivas del proyecto:
 
 Video del desarrollo del proyecto:
 
-Documento de especificación del proyecto:
+Documento de especificación del proyecto: No disponible
 
 Código en Android Studio: https://github.com/TaniaLandivar/MoviCuenca
 
@@ -23,5 +23,5 @@ UNIVERSIDAD DE CUENCA
 
 PROGRAMACIÓN 3
 
-SEMESTRE sep/2016 - feb/2017
+SEMESTRE sep/2016 - feb/2017  
 
