@@ -7,11 +7,11 @@ la programación por capas y con un paradigma orientado a objetos.
 
 	Más información:
                             
-Presentación en diapositivas del proyecto:
+Presentación en diapositivas del proyecto: http://www.slideshare.net/TaniaLandivarO/proyecto-en-android-studio-movicuenca
 
-Video del desarrollo del proyecto:
+Video del desarrollo del proyecto: https://www.youtube.com/watch?v=b7VvrcaFkMs
 
-Documento de especificación del proyecto: No disponible
+Documento de especificación del proyecto: https://es.scribd.com/document/331349749/Aplicacion-Android-MoviCuenca
 
 Código en Android Studio: https://github.com/TaniaLandivar/MoviCuenca
 
